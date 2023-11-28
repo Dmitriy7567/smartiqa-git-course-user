@@ -1,0 +1,1 @@
+# smartiqa-git-course-user
